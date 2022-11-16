@@ -1,0 +1,11 @@
+Failed test record
+Integration time [ms]:   2.000
+Averaging Nr. [scans]: 30
+Smoothing Nr. [pixels]: 0
+Data measured with spectrometer [name]: 1601059U1
+Wave   ;Sample   ;Dark     ;Reference;Transmittance
+[nm]   ;[counts] ;[counts] ;[counts] ;[%]
+
+ 200.09;   -7.297;    2.274;    3.810;-622.96784
+ 200.69;    4.584;    0.920;   25.480;14.92132
+ 201.30;    5.949;    2.380;   16.345;25.55427
